@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Fancy extends React.Component {
+export class Fancy extends React.Component {
 
     render() {
         return (
@@ -9,5 +9,3 @@ class Fancy extends React.Component {
     }
 
 }
-
-export default Fancy; 
